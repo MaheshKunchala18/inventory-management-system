@@ -1,8 +1,4 @@
-# Backend Engineering Intern Case Study - StockFlow Inventory Management
-
-**Assignment Solution**: Node.js/Express.js implementation addressing all three parts of the Backend Engineering Intern Case Study.
-
----
+# StockFlow Inventory Management
 
 ## 📋 Assignment Overview
 
